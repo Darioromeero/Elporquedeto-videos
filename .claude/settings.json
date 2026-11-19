@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd /mnt/project-files/recrear/subida-prueba/ && python3 ciclo.py tick --real)"
+    ]
+  }
+}
